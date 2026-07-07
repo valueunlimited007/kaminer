@@ -1,34 +1,20 @@
-# kaminer
+# kaminer (LEGACY, bygg inget här)
 
-Samlingsrepo för två kaminsajter i nätverket: **bastakaminen.se** och
-**kamininstallation.se**. Båda är i dagsläget minimala "kommer snart"-sidor
-(lansering 2026) byggda som varsitt fristående Astro 5-projekt med en enda
-sida (`src/pages/index.astro`). Repot innehåller även en affärsanteckning
-(`Ny(tt) Textdokument.txt`) om en eventuell försäljning av domänen kamin.se.
+Detta repo är ERSATT (2026-07-07) och ska inte byggas vidare i. De två
+"kommer snart"-sajterna som låg här som submappar är borttagna och lever nu
+som egna fristående repon:
 
-## Kommandon
+- **kamin.se** → `~/projekt/kamin-se` (neutral kunskapssajt + aktörsregister, live)
+- **kamininstallation.se** → `~/projekt/kamininstallation-se` (lead-gen, live)
+- **bastakaminen.se** → byggs som eget repo `~/projekt/bastakaminen-se`
+  (kurerad köpguide + affiliate; se expansionsplanen)
 
-Kör kommandon inne i respektive sajtmapp (`bastakaminen.se/` eller
-`kamininstallation.se/`):
+Kvar här finns endast `Ny(tt) Textdokument.txt`, en affärsanteckning om
+kamin.se-domänförsäljningen. Rör den inte.
 
-```bash
-npm install        # installera beroenden (per sajt)
-npm run dev        # dev-server
-npm run build      # bygger till dist/
-npm run preview    # förhandsgranska bygget
-```
+Även Vercel-projektet `kaminer` (team value-unlimiteds-projects) är tomt
+sedan domänen kamininstallation.se flyttats till sitt eget projekt, och kan
+raderas.
 
-## Viktigt
-
-- Två separata npm-projekt i samma repo — de delar ingen kod och har varsin
-  `package.json`, `node_modules/` och `dist/`. Rotmappen har ingen egen
-  `package.json`.
-- Ingen deploy-konfiguration (netlify.toml/vercel.json) finns i repot.
-- Sajterna är rena enkelsidor utan datakälla — allt innehåll ligger inline i
-  `index.astro`.
-
-## Nätverkskunskap (vu-skill-catalog)
-
-Innan större ändringar (feed-import, cache/ISR, SEO/indexering, cron, nya routes):
-läs `~/projekt/vu-skill-catalog/INDEX.md` — en rad + beskrivning per löst problem
-och playbook i nätverket. Öppna bara filer vars beskrivning träffar ärendet.
+Affärskontext och planer: `~/projekt/vu-skill-catalog/planer/`
+(`kaminer-kamin-se-plan.md`, `kaminer-expansion-plan.md`).

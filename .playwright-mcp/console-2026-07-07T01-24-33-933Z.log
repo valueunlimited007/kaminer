@@ -1,0 +1,10 @@
+[     963ms] [LOG] Matomo Cookie consent givet @ https://morsoe.com/da/forhandlere:176
+[    1324ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyClS9efG5hNi1Jds5BfwWs6xaZ_94txu2o&libraries=maps,marker,places:2616
+[    1437ms] [WARNING] <gmp-advanced-marker>: Please use addEventListener('gmp-click', ...) instead of addEventListener('click', ...). @ https://maps.googleapis.com/maps/api/js?key=AIzaSyClS9efG5hNi1Jds5BfwWs6xaZ_94txu2o&libraries=maps,marker,places:2500
+[   15021ms] [VERBOSE] Rendering was performed in a subtree hidden by content-visibility. @ :3190
+[   42630ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/templates/yootheme_morsoe/builder/store_locator/se.json:0
+[   42712ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/templates/yootheme_morsoe/builder/store_locator/no.json:0
+[   42796ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/templates/yootheme_morsoe/builder/store_locator/sv.json:0
+[   66376ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/se/forhandlere:0
+[   66557ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/se/aterforsaljare:0
+[   66803ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/sv:0

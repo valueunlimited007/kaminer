@@ -1,0 +1,12 @@
+[    9988ms] [INFO] [WebVitals]: Next.js-hydration: 1083.5 @ https://www.allabolag.se/_next/static/chunks/pages/_app-4e4990799e54639c.js:0
+[   10537ms] [WARNING] USP not ready @ https://www.allabolag.se/bransch-s%C3%B6k?q=sotare:126
+[   10932ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://api6.ipify.org/?format=json:0
+[   11932ms] [WARNING] [GPT] PubAdsService.setTargeting is deprecated, use googletag.setConfig({targeting: ...}) instead.
+https://goo.gle/gpt-message#170 @ https://lpp2mmgfa6dnkgmin.ay.delivery/client-v2.js:28
+[   11935ms] [LOG] clearing targeting @ https://tags.tiqcdn.com/utag/jysk-fynske-medier/partners/prod/utag.js:28
+[   11936ms] [WARNING] [GPT] Ignoring the setConfig.singleRequest() call since the service is already enabled.
+https://goo.gle/gpt-message#60 @ https://lpp2mmgfa6dnkgmin.ay.delivery/client-v2.js:28
+[   13671ms] [WARNING]  is not a valid value for uspDnsText @ https://lpp2mmgfa6dnkgmin.ay.delivery/client-v2.js:28
+[   14945ms] [WARNING] USP not ready @ https://lpp2mmgfa6dnkgmin.ay.delivery/client-v2.js:28
+[   16192ms] [LOG] uspData set usp out of jurisiction value @ https://cmp.inmobi.com/tcfv2/cmp2.js?referer=www.allabolag.se:1
+[   16203ms] [LOG] Visit event sent successfully. @ https://cmp.inmobi.com/tcfv2/cmp2.js?referer=www.allabolag.se:1

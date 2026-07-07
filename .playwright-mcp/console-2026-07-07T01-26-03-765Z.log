@@ -1,0 +1,8 @@
+[     477ms] [LOG] Matomo Cookie consent givet @ https://morsoe.com/other:175
+[   11433ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/templates/yootheme_morsoe/builder/store_locator/other.json:0
+[   11514ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/templates/yootheme_morsoe/builder/store_locator/int.json:0
+[   11594ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/templates/yootheme_morsoe/builder/store_locator/en.json:0
+[   11675ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/templates/yootheme_morsoe/builder/store_locator/gb.json:0
+[   11837ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/templates/yootheme_morsoe/builder/store_locator/world.json:0
+[   11917ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/templates/yootheme_morsoe/builder/store_locator/global.json:0
+[   11997ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://morsoe.com/templates/yootheme_morsoe/builder/store_locator/eu.json:0
